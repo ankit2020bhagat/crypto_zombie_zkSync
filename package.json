@@ -1,0 +1,10 @@
+{
+  "name": "crypto_zombie_zkSync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.0.2",
+    "zksync": "^0.13.1"
+  }
+}
